@@ -1,3 +1,3 @@
+require 'lyrical/lyric'
 module Lyrical
-  # Your code goes here...
 end
