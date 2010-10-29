@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    lyrical (0.0.1)
+      hpricot
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    hpricot (0.8.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (>= 1.0.0)
+  hpricot
+  lyrical!
