@@ -20,4 +20,5 @@ Requires hpricot for now, maybe I'll get rid of it later.
 
 ## Copyright
 Copyright (c) 2010 latortuga
+
 Lyrical is released under the terms of the MIT License, see LICENSE for more details.
